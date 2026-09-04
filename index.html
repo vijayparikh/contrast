@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "Home"
+mathjax: true
 ---
 
 {% if site.show_excerpts %}
@@ -12,6 +13,13 @@ title: "Home"
     </article>
   {% endfor %}
 {% else %}
-  {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
-  {{ source | split: "---" | last }}
+  {% for post in site.posts %}
+    <article>
+      {% include meta.html post=post %}
+      {{ post.content }}
+      <!-- <footer class="button"><a href="{{ post.url | relative_url }}">read more</a></footer> -->
+    </article>
+  {% endfor %}
+  <!-- {% capture source %}{% include_relative archive.html title="Posts" %}{% endcapture %}
+  {{ source | split: "---" | last }} -->
 {% endif %}
