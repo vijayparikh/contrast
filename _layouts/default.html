@@ -3,7 +3,25 @@
 
 {% include head.html %}
 
+
+
+
 <header class="hover smooth">
+   <div style="padding-top: 5px, margin: auto;"  >
+  <center>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7737292306450382"
+      crossorigin="anonymous"></script>
+  <!-- TopOfSite -->
+  <ins class="adsbygoogle"
+      style="display:inline-block;width:728px;height:90px"
+      data-ad-client="ca-pub-7737292306450382"
+      data-ad-slot="2041290891"></ins>
+  <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+  </script>
+  </center>
+</div>
+
   {% unless site.show_minimal and site.navigation and site.external %}
     <div>
     <h1 style="margin-bottom: 0;" {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
@@ -12,22 +30,6 @@
   {% endunless %}
   {% include menu.html menu=site.navigation %}
   {% include menu.html menu=site.external %}
-
-    
-    <div style="padding-top: 5px, margin: 0 auto;" align="center" >
-      <center>
-      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7737292306450382"
-          crossorigin="anonymous"></script>
-      <!-- TopOfSite -->
-      <ins class="adsbygoogle"
-          style="display:inline-block;width:728px;height:90px"
-          data-ad-client="ca-pub-7737292306450382"
-          data-ad-slot="2041290891"></ins>
-      <script>
-          (adsbygoogle = window.adsbygoogle || []).push({});
-      </script>
-      </center>
-    </div>
 </header>
 
 
