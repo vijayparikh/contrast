@@ -3,7 +3,7 @@ layout: post
 title: "Trump in open revolt"
 date: 2026-09-04 13:50:07 -0500
 comments: false
-categories: 
+categories: ["News & Updates"]
 ---
 Jamelle Bouie in a [New York Times opinon piece][1]:
 

@@ -3,7 +3,7 @@ layout: post
 title: "Gloria Steinem has died"
 date: 2026-09-04 15:40:31 -0500
 comments: true
-categories: 
+categories: ["News & Updates"]
 ---
 ![Gloria Steinem](/assets/images/gloira-steinem.png)
 

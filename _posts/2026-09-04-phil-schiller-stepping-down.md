@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Phil Schiller Stepping down "
+title: "Phil Schiller Stepping down"
 date: 2026-09-04 15:31:33 -0500
 comments: true
-categories: 
+categories: ["News & Updates"]
 ---
 
 ![Phill Schiller](/assets/images/phill-schiller.png)
