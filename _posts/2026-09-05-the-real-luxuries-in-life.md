@@ -3,7 +3,7 @@ layout: post
 title: "The Real Luxuries In Life"
 date: 2026-09-05 21:47:41 -0500
 comments: true
-categories: 
+categories: "Resources & Tools"
 ---
 Lately, I’ve been thinking a lot more about what I actually care about.
 
