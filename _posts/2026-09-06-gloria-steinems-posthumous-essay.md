@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gloria Steinem's posthumous essay"
-date: 2026-09-06 00:09:59 -0500
+date: 2026-09-07 00:09:59 -0500
 comments: true
 categories:  ["News & Updates"]
 ---

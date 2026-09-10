@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Trump in open revolt"
-date: 2026-09-04 13:50:07 -0500
+date: 2026-09-05 13:50:07 -0500
 comments: false
 categories: ["News & Updates"]
 ---
