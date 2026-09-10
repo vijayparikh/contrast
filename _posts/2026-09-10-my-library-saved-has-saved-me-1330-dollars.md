@@ -19,17 +19,25 @@ We tend to think about the value of government services in terms of what they co
 
 The library is an obvious example. You borrow a book instead of buying it. Maybe you use the computers. Attend a class. Download an audiobook. Take the kids to a program. All of that has a real dollar value.
 
-And libraries aren't the only example.
-
-Imagine if every municipal service gave you a running total of what you received versus what it would have cost you to purchase privately.
+And libraries books aren't the only example.
 
 For example - my township offers: 
  
 - Free meeting rooms for large public programs/lectures/meeting/presentations, to mid-size instruction, small meetings, and individualized study - cost of booking privately at local hotels $150-$250
 - Passes to museums for a group of 4 - average coast would be $200
 - Even includes free rentals of electronics and basics (metal detectors, wifi hotspots, auotmotive OBD code reader, Stud sensor, and a car battery charger, etc.) 
+- Free lighted pickle ball courts 
+- Free lighted tennis courts
+- subsidised access to pools 
+- subsidised access to country golf courses
+- free local transit services for senior citizens
 
-These could easily save families a few thousand dollars a year. 
+Just to name a few. 
+
+Imagine if every municipal service gave you a running total of what you received versus what it would have cost you to purchase privately.
+
+
+These could easily save residents a few thousand dollars a year. 
 
 
 
