@@ -13,6 +13,24 @@ The Chicago Public Library informs patrons of [how much money they’ve saved bo
 >
 > I stared at this. My first thought was not, “What a compelling demonstration of the economic value of municipal services.”
 
+But maybe it should be. Because that is exactly what it is.
+
+We tend to think about the value of government services in terms of what they cost us in taxes. But we rarely stop to think about what those services save us—or what they would cost if we had to pay for them individually.
+
+The library is an obvious example. You borrow a book instead of buying it. Maybe you use the computers. Attend a class. Download an audiobook. Take the kids to a program. All of that has a real dollar value.
+
+And libraries aren't the only example.
+
+Imagine if every municipal service gave you a running total of what you received versus what it would have cost you to purchase privately.
+
+For example - my township offers: 
+ 
+- Free meeting rooms for large public programs/lectures/meeting/presentations, to mid-size instruction, small meetings, and individualized study - cost of booking privately at local hotels $150-$250
+- Passes to museums for a group of 4 - average coast would be $200
+- Even includes free rentals of electronics and basics (metal detectors, wifi hotspots, auotmotive OBD code reader, Stud sensor, and a car battery charger, etc.) 
+
+These could easily save families a few thousand dollars a year. 
+
 
 
 [1]: https://www.salon.com/2026/09/06/my-library-card-has-saved-me-1330-and-i-want-more/
