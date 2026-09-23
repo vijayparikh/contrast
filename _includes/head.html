@@ -1,3 +1,4 @@
+<head>
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -30,3 +31,6 @@
 <script data-isso="http://{{ site.comments.isso_domain }}" src="//{{ site.comments.isso_domain }}/js/embed.min.js"></script>
 {%- endif -%}
 {%- if site.show_sidebar %}{% include sidebar.html %}{% endif %}
+
+{% include google-analytics.html  %}
+</head>
