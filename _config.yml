@@ -7,6 +7,9 @@ excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 future: false
 
+sass:
+  quiet_deps: true
+  silence_deprecations: ['import']
 
 # Layout
 
