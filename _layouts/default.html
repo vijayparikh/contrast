@@ -7,7 +7,16 @@
 
 
 <header class="hover smooth">
-   <div style="margin: auto;"  >
+  {% unless site.show_minimal and site.navigation and site.external %}
+    <div>
+    <h1 style="margin-bottom: 0;" {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
+    <p style="margin-top: 0;"> Rants and Ruminations.</p>
+    </div>
+  {% endunless %}
+  {% include menu.html menu=site.navigation %}
+  {% include menu.html menu=site.external %}
+
+  <div style="margin: auto;"  >
   <center>
   <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7737292306450382"
       crossorigin="anonymous"></script>
@@ -21,15 +30,6 @@
   </script>
   </center>
 </div>
-
-  {% unless site.show_minimal and site.navigation and site.external %}
-    <div>
-    <h1 style="margin-bottom: 0;" {% if site.navigation and site.external %}class="full"{% endif %}><a href="{{ "/" | relative_url }}">{{ site.title | escape }}</a></h1>
-    <p style="margin-top: 0;"> Rants and Ruminations.</p>
-    </div>
-  {% endunless %}
-  {% include menu.html menu=site.navigation %}
-  {% include menu.html menu=site.external %}
 </header>
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Super Intelligence not AI"
-date: 2026-10-12 02:42:49 -0400
+date: 2026-10-11 02:42:49 -0400
 comments: true
 categories: 
 ---

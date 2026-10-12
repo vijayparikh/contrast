@@ -5,6 +5,8 @@ permalink: /:year/:month/:day/:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
+future: false
+
 
 # Layout
 
