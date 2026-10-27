@@ -11,7 +11,7 @@ deploy_default = "rsync"
 ssh_user       = "dh_rhkyg3@pdx1-shared-a4-08.dreamhost.com"
 ssh_port       = "22"
 document_root  = "/home/dh_rhkyg3/insightfultroll.com"
-rsync_delete   = false
+rsync_delete   = true
 rsync_args     = "--omit-dir-times --no-p"  # Any extra arguments to pass to rsync
 
 
