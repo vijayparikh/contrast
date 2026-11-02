@@ -6,10 +6,11 @@ lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
 future: false
+site_url: https://insightfultroll.com
 
-# sass:
-#   quiet_deps: true
-#   silence_deprecations: ['import']
+sass:
+  quiet_deps: true
+  silence_deprecations: ['import']
 
 # Layout
 

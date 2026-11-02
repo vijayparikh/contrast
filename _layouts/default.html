@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang }}">
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7737292306450382"
+     crossorigin="anonymous"></script>
+
 {% include head.html %}
-
-
-
 
 <header class="hover smooth">
   {% unless site.show_minimal and site.navigation and site.external %}
@@ -15,23 +15,7 @@
   {% endunless %}
   {% include menu.html menu=site.navigation %}
   {% include menu.html menu=site.external %}
-
-  <div style="margin: auto;"  >
-  <center>
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7737292306450382"
-      crossorigin="anonymous"></script>
-  <!-- TopOfSite -->
-  <ins class="adsbygoogle"
-      style="display:inline-block;width:728px;height:90px"
-      data-ad-client="ca-pub-7737292306450382"
-      data-ad-slot="2041290891"></ins>
-  <script>
-      (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
-  </center>
-</div>
 </header>
-
 
 
 
