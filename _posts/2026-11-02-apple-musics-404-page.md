@@ -14,16 +14,8 @@ The original iPod really was a little work of art. Simple, purpose-built, and br
 
 I would absolutely love to see Apple bring it back for a limited run. No redesigns, no unnecessary features, no attempt to reinvent the wheel. Just take the original iPod, replace the hard drive with an SSD, and leave everything else alone.
 
-Honestly, the marketing campaign could be just one line: [“Shut up and take my money!”](https://www.youtube.com/watch?v=kpw92fH0wdc)
+Honestly, Apple - just [“Shut up and take my money!”](https://www.youtube.com/watch?v=kpw92fH0wdc)
 
-
-
-
-[Apple Music’s 404 page][1] features a fully functional iPod simulator. Super faithful to the original - scroll to  Settings > About and hold the Select button for 5 seconds to enter a game of BrickOut (officially called Brick by Apple).
-
-That original iPod was a work of art.  Simple, purpose built and fully operational with just your thumb with out even looking at the interface. I hope Apple re-issues this model limited time.  Don't change anything - just replace the hard drive with an SSD drive.  
-
-The one line marketing blitz could just be "[Shutup and take my mone!][2]"  
 
 [1]: https://music.apple.com/404
 [2]: https://www.youtube.com/watch?v=kpw92vH0wdc
