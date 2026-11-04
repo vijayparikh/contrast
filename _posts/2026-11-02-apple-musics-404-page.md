@@ -6,7 +6,7 @@ comments: true
 categories:
 ---
 
-![Apple Music 404](assets/images/music.apple.com.404.png)
+[![Apple Music 404](assets/images/music.apple.com.404.png)][1]
 
 [Apple Music’s 404 page](https://music.apple.com/404) has a fully functional iPod simulator, and it’s surprisingly faithful to the original. Head into Settings > About, hold down the Select button for five seconds, and you’ll unlock a game of BrickOut (officially known as Brick by Apple).
 
